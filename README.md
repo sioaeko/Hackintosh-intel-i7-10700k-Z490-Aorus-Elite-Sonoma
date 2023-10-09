@@ -12,7 +12,7 @@ New Hackintosh portfolio for Z490 Chipset Mainboard
 
 <img width="392" alt="스크린샷 2023-10-07 오후 9 40 18" src="https://github.com/59rice/Hackintosh-Intel-i7-10700k-AORUS-Z490-Elite-OpenCore-0.9.5/assets/101755125/0946b3b2-5be8-4119-960d-602308bd6045">
 
-|제목|내용
+|spec|verification
 |------|---
 |CPU|Intel Core(R) i7-10700K
 |RAM|Teamforce Xtreem RGB DDR4 16GB 4000MHz
@@ -26,7 +26,7 @@ New Hackintosh portfolio for Z490 Chipset Mainboard
 
 <img width="1438" alt="Screenshot 2023-02-10 at 9 52 50 PM 2" src="https://user-images.githubusercontent.com/101755125/218097359-fe9371ef-6a8a-49b6-83d7-f812e9356e77.png">
 
-|제목|내용
+|Functions|verification
 |------|---
 |GPU acceleration| ✓
 |Wifi| ✓ - Possible to Patch Fenvi T919
@@ -36,7 +36,7 @@ New Hackintosh portfolio for Z490 Chipset Mainboard
 |Sleep and wake| ✓
 |2.5G Ethernet| ✓
 |Intel Speedstep| ✓
-|backpanel Line OUT| ✓
+|backpanel LINE OUT| ✓
 |forntpanel LINE OUT| ✓
 
 

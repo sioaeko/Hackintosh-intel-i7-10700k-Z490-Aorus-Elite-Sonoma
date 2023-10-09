@@ -31,11 +31,13 @@ New Hackintosh portfolio for Z490 Chipset Mainboard
 |GPU acceleration| ✓
 |Wifi| ✓ - Possible to Patch Fenvi T919
 |Bluetooth| ✓
-|Apple Continuity| ✓
+|Apple Continuity| ✓ - - Possible to Patch Fenvi T919
 |USB Mapping| ✓
 |Sleep and wake| ✓
 |2.5G Ethernet| ✓
 |Intel Speedstep| ✓
+|backpanel Line OUT| ✓
+|forntpanel LINE OUT| ✓
 
 
 ## Bios Setting
@@ -87,9 +89,14 @@ Soon upload for usb map image to match port
 
 ## Fenvi T919 Patch for MacOS Sonoma
 
+Apple had deleted the whole legacy 80211 stack on Sonoma, so you disabled old IO80211Famil.kext then replace New IO80211Family
+then patch to OCLP
+
 https://www.reddit.com/r/hackintosh/comments/170q5wu/enable_wifi_in_sonoma_with_fenvi_t919/
 
-Thanks for reddit :)
+https://github.com/5T33Z0/OC-Little-Translated/blob/main/14_OCLP_Wintel/WIiFi_Sonoma.md#2-config-and-efi-adjustments
+
+Thanks for zxystd,reddit,5T33Z0 :)
 
 
 # Important!!

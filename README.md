@@ -79,7 +79,7 @@ New Hackintosh portfolio for Z490 Chipset Mainboard
 >
 >So you don't need to use another kext or ssdt ( ex:CPUFriend/CPUFriendFriend)(SSDT-PLUG is already applied)
 
-#<img width="512" alt="스크린샷 2023-10-07 오후 9 33 53 1" src="https://github.com/59rice/Hackintosh-Intel-i7-10700k-AORUS-Z490-Elite-OpenCore-0.9.5/assets/101755125/a47c48b5-5cd9-4e10-90fa-2e6c882240bc">
+<img width="512" alt="스크린샷 2023-10-07 오후 9 33 53 1" src="https://github.com/59rice/Hackintosh-Intel-i7-10700k-AORUS-Z490-Elite-OpenCore-0.9.5/assets/101755125/a47c48b5-5cd9-4e10-90fa-2e6c882240bc">
 
 ## USB Port Map
 

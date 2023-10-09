@@ -89,14 +89,13 @@ Soon upload for usb map image to match port
 
 ## Fenvi T919 Patch for MacOS Sonoma
 
->Apple had deleted the whole legacy 80211 stack on Sonoma, so you disabled old IO80211Famil.kext then replace New IO80211Family
-then patch to OCLP
+> Apple had deleted the whole legacy 80211 stack on Sonoma, so you disabled old IO80211Famil.kext then replace New IO80211Family then patch to OCLP
 
 https://www.reddit.com/r/hackintosh/comments/170q5wu/enable_wifi_in_sonoma_with_fenvi_t919/
 
 https://github.com/5T33Z0/OC-Little-Translated/blob/main/14_OCLP_Wintel/WIiFi_Sonoma.md#2-config-and-efi-adjustments
 
->Thanks for zxystd,reddit,5T33Z0 :)
+> Thanks for zxystd,reddit,5T33Z0 :)
 
 
 # Important!!

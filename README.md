@@ -93,7 +93,7 @@ Soon upload for usb map image to match port
 
 https://www.reddit.com/r/hackintosh/comments/170q5wu/enable_wifi_in_sonoma_with_fenvi_t919/
 
-https://github.com/5T33Z0/OC-Little-Translated/blob/main/14_OCLP_Wintel/WIiFi_Sonoma.md#2-config-and-efi-adjustments
+https://github.com/5T33Z0/OC-Little-Translated/tree/main/14_OCLP_Wintel
 
 > Thanks for zxystd,reddit,5T33Z0 :)
 

@@ -105,4 +105,8 @@ https://github.com/5T33Z0/OC-Little-Translated/tree/main/14_OCLP_Wintel
 
 <img width="512" alt="Screenshot 2023-02-08 at 2 43 00 PM 1" src="https://user-images.githubusercontent.com/101755125/217446894-510dd79c-2274-491d-8599-8800ae61be68.png">
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=sioaeko/Hackintosh-Opencore-AORUS-Z490-Elite-OC-0.9.5&type=Timeline)](https://star-history.com/#sioaeko/Hackintosh-Opencore-AORUS-Z490-Elite-OC-0.9.5&Timeline)
+
 

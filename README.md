@@ -6,7 +6,9 @@ New Hackintosh portfolio for Z490 Chipset Mainboard
 ⚠ Notice!
 >We Made New EFI for compatibility MacOS Sonoma/Haeadless System
 >
->it works better than 0.8.8 bootloader efi
+>The project is no longer supported as the developer no longer owns the hardware, but we may release a test release of EFI for a new OpenCore version in the future.
+>
+>Have a Happy Hackintosh :D
 
 ## Hardware Spec
 

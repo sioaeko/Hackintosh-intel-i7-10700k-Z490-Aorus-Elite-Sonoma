@@ -15,6 +15,42 @@ New Hackintosh portfolio for Z490 Chipset Mainboard
 >kexts are missing for copyright reasons
 >For the kexts, please refer to the EFI folder in the previous bootloader version to get the kexts for 1.0.0
 >
+>>Lists
+>>
+>>AMFIPass.kext
+>>
+>>AppleALC.kext
+>>
+>>FakePCIID.kext
+>>
+>>FakePCIID_Intel_HDMI_Audio.kext
+>>
+>>IO80211FamilyLegacy.kext
+>>
+>>IOSkywalkFamily.kext
+>>
+>>Lilu.kext
+>>
+>>LucyRTL8125Ethernet.kext
+>>
+>>RadeonSensor.kext
+>>
+>>RestrictEvents.kext
+>>
+>>SMCProcessor.kext
+>>
+>>SMCRadeonGPU.kext
+>>
+>>SMCSuperIO.kext
+>>
+>>USBPorts.kext
+>>
+>>USBWakeFixup.kext
+>>
+>>VirtualSMC.kext
+>>
+>>WhateverGreen.kext
+>
 >The ACPI file can be copied from the EFI of the previous bootloader
 >
 >Resources can be copied and pasted from the genuine opencore 1.0.0 bootloader file

@@ -57,6 +57,8 @@ New Hackintosh portfolio for Z490 Chipset Mainboard
 >
 >We will deploy a future release that also adds the ACPI and Resources folders that are missing in 1.0.0 EFI
 >
+>If you don't want to do that, you can use the finished 0.8.9 release
+>
 >Have a Happy Hackintosh :D
 
 ## Hardware Spec

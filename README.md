@@ -1,4 +1,4 @@
-# Hackintosh-Intel-i7-10700k-AORUS-Z490-Elite-OpenCore-0.9.5
+# Hackintosh-Intel-i7-10700k-AORUS-Z490-Elite-OpenCore-1.0.0
 New Hackintosh portfolio for Z490 Chipset Mainboard
 
 <img src="https://github.com/59rice/Hackintosh-Intel-i7-10700k-AORUS-Z490-Elite-OpenCore-0.9.5/assets/101755125/86aa96e4-7361-4da8-9926-a34a78ac88af" width="60%"></img>
@@ -6,7 +6,11 @@ New Hackintosh portfolio for Z490 Chipset Mainboard
 ⚠ Notice!
 >We Made New EFI for compatibility MacOS Sonoma/Haeadless System
 >
->The project is no longer supported as the developer no longer owns the hardware, but we may release a test release of EFI for a new OpenCore version in the future.
+>This EFI has been updated by ChatGPT 4o to support Opencore 1.0.0 and is now in the current release
+>
+>The developer no longer has that hardware, so that version has not been tested for operation.
+>If the version doesn't work, you can use the
+>please use the 0.9.5 release of Opencore, which has been verified to work.
 >
 >Have a Happy Hackintosh :D
 

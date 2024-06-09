@@ -59,6 +59,8 @@ New Hackintosh portfolio for Z490 Chipset Mainboard
 >
 >If you don't want to do that, you can use the finished 0.8.9 release
 >
+>It's not a complete release, so we uploaded it as a pre-release
+>
 >Have a Happy Hackintosh :D
 
 ## Hardware Spec

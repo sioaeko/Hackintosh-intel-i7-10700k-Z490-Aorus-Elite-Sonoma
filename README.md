@@ -97,7 +97,7 @@ New Hackintosh portfolio for Z490 Chipset Mainboard
 
 ## Bios Setting
 
->  ⚠  Base for Aorus Z490 Elite / Master
+>  ⚠  Base for Aorus Z490 Elite / Master Motherboard
     
     - IO Ports > Internal Graphics > ( Auto > Enabled )
     

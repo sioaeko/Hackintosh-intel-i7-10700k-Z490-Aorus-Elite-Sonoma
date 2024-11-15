@@ -1,67 +1,27 @@
 # Hackintosh-Intel-i7-10700k-AORUS-Z490-Elite-OpenCore-1.0.0
-New Hackintosh portfolio for Z490 Chipset Mainboard
 
-<img src="https://github.com/59rice/Hackintosh-Intel-i7-10700k-AORUS-Z490-Elite-OpenCore-0.9.5/assets/101755125/86aa96e4-7361-4da8-9926-a34a78ac88af" width="60%"></img>
-
-⚠ Notice!
->We Made New EFI for compatibility MacOS Sonoma/Haeadless System
->
->This EFI has been updated by ChatGPT 4o to support Opencore 1.0.0 and is now in the current release
->
->The developer no longer has that hardware, so that version has not been tested for operation.
->If the version doesn't work, you can use the
->please use the 0.9.5 release of Opencore, which has been verified to work.
->
->kexts are missing for copyright reasons
->For the kexts, please refer to the EFI folder in the previous bootloader version to get the kexts for 1.0.0
->
->>Lists
->>
->>AMFIPass.kext
->>
->>AppleALC.kext
->>
->>FakePCIID.kext
->>
->>FakePCIID_Intel_HDMI_Audio.kext
->>
->>IO80211FamilyLegacy.kext
->>
->>IOSkywalkFamily.kext
->>
->>Lilu.kext
->>
->>LucyRTL8125Ethernet.kext
->>
->>RadeonSensor.kext
->>
->>RestrictEvents.kext
->>
->>SMCProcessor.kext
->>
->>SMCRadeonGPU.kext
->>
->>SMCSuperIO.kext
->>
->>USBPorts.kext
->>
->>USBWakeFixup.kext
->>
->>VirtualSMC.kext
->>
->>WhateverGreen.kext
->
->The ACPI file can be copied from the EFI of the previous bootloader
->
->Resources can be copied and pasted from the genuine opencore 1.0.0 bootloader file
->
->We will deploy a future release that also adds the ACPI and Resources folders that are missing in 1.0.0 EFI
->
->If you don't want to do that, you can use the finished 0.8.9 release
->
->It's not a complete release, so we uploaded it as a pre-release
->
->Have a Happy Hackintosh :D
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <h2>⚠️ ARCHIVED</h2>
+        <img src="https://github.com/59rice/Hackintosh-Intel-i7-10700k-AORUS-Z490-Elite-OpenCore-0.9.5/assets/101755125/86aa96e4-7361-4da8-9926-a34a78ac88af" width="450" alt="Project Logo">
+        <p><strong>This repository is no longer maintained as the developer no longer has access to the hardware.</strong></p>
+        <p>Important Information:</p>
+        <ul align="left">
+          <li>🛑 Development has been discontinued</li>
+          <li>💻 Developer no longer owns this hardware configuration</li>
+          <li>⚠️ No future updates or testing will be possible</li>
+          <li>📦 Last verified stable version: OpenCore 0.9.5</li>
+          <li>💡 Consider using alternative solutions for newer systems</li>
+        </ul>
+        <p><strong>A Note on Hackintosh in 2024:</strong></p>
+        <p>With the introduction of affordable Apple Silicon Macs like the M4 Mac Mini and other ARM-based Macs, the cost-benefit ratio of Hackintosh systems has significantly decreased. We now recommend transitioning to genuine Apple hardware for better reliability, performance, and native support.</p>
+        <p><strong>Thank you for your understanding and support throughout this project's lifecycle.</strong></p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## Hardware Spec
 
